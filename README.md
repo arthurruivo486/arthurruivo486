@@ -27,8 +27,4 @@ Sou estudante de **Tecnologia da Informação**, apaixonado por desenvolvimento 
 
 ---
 
-### 📫 Contato
-
-- Email: seuemail@example.com
-- LinkedIn: [Seu Perfil](#)
 

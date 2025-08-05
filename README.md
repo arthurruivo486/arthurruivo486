@@ -21,7 +21,7 @@ Sou estudante de **Tecnologia da Informação**, apaixonado por desenvolvimento 
 
 ### 📊 GitHub Stats
 
-![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical))
+![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurruivo486&show_icons=true&theme=radical))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=tokyonight)
 
 ---

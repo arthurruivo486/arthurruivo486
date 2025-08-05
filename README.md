@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack em formação
 
-Sou estudante de **Tecnologia da Informação**, apaixonado por desenvolvimento web e backend. Atualmente estou estudando e praticando com foco em **PHP, JavaScript, React, Node.js, MySQL e SQLite**.
+Sou estudante de **Tecnologia da Informação**, apaixonado por desenvolvimento web e backend. Atualmente estou estudando e praticando com foco em **JavaScript, React, Node.js e SQLite**.
 
 ---
 

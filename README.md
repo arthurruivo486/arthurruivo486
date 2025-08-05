@@ -25,6 +25,4 @@ Sou estudante de **Tecnologia da Informação**, apaixonado por desenvolvimento 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurruivo486&layout=compact&theme=tokyonight)
 
 
----
-
 

@@ -1,6 +1,5 @@
 # 💻 Desenvolvedor Web e mobile
 
-👋 Olá, eu sou Arthur Ruivo! Desenvolvedor web e mobile com conhecimentos em JavaScript, React, PHP e bancos de dados relacionais.  
 
 ## 🛠️ Tecnologias  
 

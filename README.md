@@ -20,8 +20,8 @@ Sou estudante de **Tecnologia da Informação**, apaixonado por desenvolvimento 
 ---
 ### 📊 GitHub Stats
 
-| ![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurruivo486&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurruivo486&hide_progress=true&theme=tokyonight) |
-| --- | --- |
+ ![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurruivo486&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurruivo486&hide_progress=true&theme=tokyonight) 
+
 
 
 
